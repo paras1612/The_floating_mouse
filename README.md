@@ -3,4 +3,5 @@ A sensor integrated prototype that can be used as a touchpad or a mouse on any s
 
 ## Items used:
 IMU MPU6050
+
 Arduino UNO
